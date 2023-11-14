@@ -1,0 +1,8 @@
+.section {
+  max-width: fit-content;
+  margin: auto;
+  padding: 4rem;
+
+  background-color: var(--bg);
+  border-radius: 0.5rem;
+}

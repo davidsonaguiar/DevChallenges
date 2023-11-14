@@ -1,0 +1,14 @@
+.root {
+  padding: 0.5rem 0.5rem;
+  border-radius: 0.5rem;
+  color: var(--text-light);
+  cursor: pointer;
+}
+
+.root:has(input:checked) {
+  background-color: var(--bg-light);
+}
+
+.input {
+  display: none;
+}

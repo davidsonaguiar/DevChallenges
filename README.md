@@ -12,7 +12,6 @@ Este repositório contém as minhas soluções para os desafios propostos pelo s
    - [Repositório](./SimpleCoffeListing)
    - [Demonstração](https://simple-coffee-listing.davidson05.repl.co/)
 
-...
 
 ## Como Contribuir
 

@@ -1,0 +1,1 @@
+export type Filter = "all-products" | "available-now";

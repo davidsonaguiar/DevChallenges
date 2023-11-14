@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-size: 16px;
+  
+}
+
+:root {
+  font-size: 16px;
+  font-family: sans-serif;
+  
+  --bg: #1B1D1F;
+  --bg-dark: #111315;
+  --bg-light: #6F757C;
+  
+  --text: #6F757C;
+  --text-dark: #1B1D1F;
+  --text-light: #FEF7EE;
+
+  --sucess: #BEE3CC;
+  --warning: #F6C768;
+  --danger: #ED735D;
+}
+
+body {
+  width: 100%;
+  min-height: 100vh;
+  
+  background-color: var(--bg-dark);
+  background-image: url("../public/images/bg-cafe.jpg");
+  background-repeat: no-repeat;
+  background-size: contain; 
+}
+
+main {
+  padding: 3rem 6rem;
+}
